@@ -1,0 +1,393 @@
+LanguageId	LanguageValue
+Login	Login
+Machines	Geräte
+Birth	Erstellung
+SKU #	Artikelnummer
+Serial #	Seriennummer
+Device serial #	Seriennummer des Produkts
+Machine SKU #	Artikelnummer
+Machine serial #	Seriennummer
+Facility name	Name der Einrichtung
+Machine configuration	Gerätekonfiguration
+Cases	Chirurgische Behandlungen
+Help tickets	Support-Anfragen
+Doctors	Ärzte
+Support team	Support-Team
+No cases to display	Keine Behandlungen vorhanden
+No tickets to display	Keine Anfragen vorhanden
+VNC	VNC (Virtuelle Netzwerkverbindung)
+No doctors to display	Keine Ärzte vorhanden
+No support team members to display	Keine Support-Mitarbeiter vorhanden
+Pair doctor	Arzt koppeln
+Pair support person	Support-Mitarbeiter koppeln
+Users	Benutzer
+Support	Support
+Surgeon	Chirurg/in
+Last name	Nachname
+Service	Service
+Sales	Vertrieb
+First name	Vorname
+Information	Informationen
+Mobile phone	Mobiltelefon
+Email	E-Mail
+Edit user	Benutzer bearbeiten
+Pair machine	Gerät koppeln
+Files	Dateien
+No files to display	Keine Dateien vorhanden
+Select one	Auswählen
+Clear	Leeren
+Case stop time range	Zeitspanne für Behandlungsende
+Doctor name	Name des Arztes
+Select start date	Start-Datum wählen
+Select end date	End-Datum wählen
+Apply	Anwenden
+Ticket start time range	Zeitrahmen für Anfragenbeginn
+Assigned user	Zugewiesener Benutzer
+Ticket status	Status der Anfrage
+Ticket reason	Grund der Anfrage
+View case	Behandlung anzeigen
+View ticket	Details
+Unpair user	entkoppeln 
+Surgeon summary	Chirurg/in Übersicht
+Case log details	Protokoll der Behandlung
+Settings file	Datei-Einstellungen
+Technique	OP-Technik
+No change has been made	Keine Änderung vorgenommen
+Case time	Behandlungszeit
+Total time	Gesamtzeit
+Fluid level	Flüssigkeitspegel
+phaco	Phako
+I/A	I/A
+Vit	Vit
+Frag	Frag
+Extrude	Extrudieren
+Vitesse	Vitesse
+Grade	Grad
+Infusion	Infusion
+Elevated infusion	Erhöhter Infusionsdruck
+Vacuum	Vakuum
+U/S Average	US-Durchschnitt
+U/S EPT	US-EPT
+Coag	Koag
+Laser	Laser
+Laser shots	Laserstrahl
+Cancel	Abbrechen
+No case log details to view	Kein Protokoll der Behandlung angezeigt
+You do not have permission to view this	Sie haben keine Berechtigung für diese Anzeige
+You have incomplete birth process. Do you want to continue?	Sie haben einen unvollständigen Erstellungsprozess. Möchten Sie fortfahren?
+Info	Information
+Yes	Ja
+No	Nein
+Register system	System registrieren
+Activate sim	SIM aktivieren
+System SKU	System-SKU
+System serial	Seriennummer des Systems
+MQTT ID	MQTT-Kontoname
+MQTT Password	MQTT-Kennwort
+Gateway part #	Gateway-Teilenummer
+Gateway serial #	Gateway-Seriennummer
+Gateway password	Gateway-Kennwort
+SIM part number	SIM-Teilenummer
+SIM ICCID	SIM-Kartennummer (ICCID)
+Cell Carrier	Zellträger
+SIM EAP code	SIM-EAP-Code
+Enter gateway password	Gateway-Kennwort eingeben
+Enter gateway serial	Gateway-Seriennummer eingeben
+Enter gatway part #	Gateway-Teilenummer eingeben
+Enter SIM ICCID	SIM-Kartennummer (ICCID) eingeben
+Select EAP code	EAP-Code wählen
+Save file	Datei speichern
+Select SKU	SKU wählen
+EX:	Beispiel:
+Error	Fehler
+Register machine	Gerät registrieren
+File status	Dateistatus
+OK	OK
+Region	Region
+Facility	Einrichtung
+SKU	SKU
+Get me help enabled	„Hilfe anfordern“ aktiviert
+Sales status	Verkaufsstatus
+Sales status date range	Datumsbereich für Verkaufsstatus
+Birth date range	Datum der Erstellung
+Enter facility name	Namen der Einrichtung eingeben
+Enable	Aktivieren
+Disable	Deaktivieren
+None	Keine
+Not Placed	Nicht platziert
+Not for sale	Nicht zum Verkauf
+Demo	Demo
+Sold	Verkauft
+Lease	Leasing
+Placement	Platzierung
+Enter system serial number	Seriennummer des Systems eingeben
+No machines to display	Keine Geräte vorhanden
+Enter doctor last name	Nachnamen des Arztes eingeben
+Unpair from this machine	Von diesem Gerät entkoppeln
+Role	Rolle
+Validate email	E-Mail bestätigen
+Sub role(s)	Unterrolle(n)
+BART_SART	BART_SART (Geschäftseinheit/-bereich/-gebiet_Serviceeinheit/-bereich/-gebiet)
+Get change emails?	E-Mail-Adressen ändern?
+Remote connect allowed?	Fernverbindung zugelassen?
+Enter first name	Vornamen eingeben
+Enter last name	Nachnamen eingeben
+Enter user email	Benutzer-E-Mail eingeben
+Enter phone number	Telefonnummer eingeben
+Select role	Rolle wählen
+Select sub role	Unterrolle wählen
+Select zone	Zone wählen
+Save & pair with this machine	Speichern und mit diesem Gerät koppeln
+Ticket #	Anfrage-ID
+Start time	Startzeit
+Close time	Beenden: Zeit
+Status	Status
+Contact name	Name des Ansprechpartners
+Contact number	Telefonnummer des Ansprechpartners
+Surgeon settings name	Chirurg/in Einstellungen Name
+Machine errors	Gerätefehler
+Notes	Anmerkungen
+Responder list	Liste der Absender
+Assigned user list	Liste zugewiesener Benutzer
+Add note	Hinweis hinzufügen
+Unpair machine	Gerät entkoppeln
+Password	Kennwort
+Confirm password	Kennwort bestätigen
+Business Unit	Geschäftseinheit
+Area	Bereich
+Territory	Gebiet
+Created by	Erstellt von
+Delete	Löschen
+Sales Admin	Vertriebsverwaltung
+Sales Manager	Vertriebsleiter
+Field Sales	Außendienst - Vertrieb
+Lens Rep	Vertreter für Linsen
+Applications	Anwendungen
+Data Analyst	Datenanalyst
+Marketing	Marketing
+Admin	Administrator
+Customer Service	Kundenservice
+Service Manager	Service-Manager
+Field Service	Außendienst
+Technical Support	Technischer Support
+Manufacturing	Herstellung
+R&D Users	Benutzer F&E
+New	Neu
+In Process	In Bearbeitung
+Reassigned	Erneut zugeordnet
+Closed and Resolved	Beendet und gelöst
+Closed and Unresolved	Beendet und ungelöst
+Expired	Abgelaufen
+Setup	Einrichtung
+Order Packs	Packs bestellen
+Another Issue	Weiteres Problem
+RemConn	Fernverbindung
+Current Machine Configuration	Aktuelle Maschinenkonfiguration
+Past EDHR	Past EDHR
+Machine Life Data	Daten zur Maschinenlebensdauer
+EDHR	EDHR
+Life Data	Lebensdaten
+Machine Status	Maschinenstatus
+Not Updated	Nicht aktualisiert
+Are you sure you want to change the mobile connection status?.	Möchten Sie den Status der mobilen Verbindung wirklich ändern?
+days	Tage
+Facility Address	Adresse der Einrichtung
+Facility ID	Facility ID
+Customer Account #	Kundenkonto #
+Cases Associated with Machine	Mit der Maschine verbundene Fälle
+Sales Region	Verkaufsregion
+System Birth Date	Geburtsdatum des Systems
+Placed By	Platziert von
+Mobile Connection	Mobile Verbindung
+SIM Change	SIM-Wechsel
+Change	Veränderung
+SIM Plan	SIM-Plan
+No Records To Display	Keine Datensätze zum Anzeigen
+Save	Sparen
+Close	Schließen
+Create	Erstellen
+Edit	Bearbeiten
+Find Doctor	Finde einen Arzt
+Dr.	DR.
+Pair to this machine	Mit dieser Maschine koppeln
+Enter Email	Email eingeben
+NPI	NPI
+Enter NPI	Enter NPI
+EULA Created Date	Erstellungsdatum der EULA
+EULA Accepted	EULA akzeptiert
+EULA Accepted Date	Akzeptiertes EULA-Datum
+Find User	Finde den Benutzer
+Create User	Benutzer erstellen
+Enter User Last Name	NPI eingeben
+You are about to exit the App. Are you sure?	Sie sind dabei, die App zu beenden. Bist du sicher?
+This process requires physical access to the machine to complete. Are you sure you want to proceed?	Für diesen Vorgang ist ein physischer Zugriff auf das Gerät erforderlich. Sind Sie sicher, dass Sie fortfahren möchten?
+Are you sure you want to delete this user?	Möchten Sie diesen Benutzer wirklich löschen?
+Confirmation	Bestätigung
+Please connect to a network and try again.	Bitte stellen Sie eine Verbindung zu einem Netzwerk her und versuchen Sie es erneut.
+SSO is not enabled. Please contact your administrator.	SSO ist nicht aktiviert. Bitte wenden Sie sich an Ihren Administrator.
+Not a valid cloud user	Kein gültiger Cloud-Benutzer
+Start date should be less than End date	Das Startdatum sollte unter dem Enddatum liegen
+Unauthorized	Nicht autorisiert
+Session Expired. Please Login.	Sitzung abgelaufen. Bitte loggen Sie sich ein.
+Success	Erfolg
+Error Saving File	Fehler beim Speichern der Datei
+SIM Status	SIM-Status
+Current SIM Status	Aktueller SIM-Status
+Required Fields	Benötigte Felder
+EAP Code	EAP Code
+Please Enter Required Fields	Bitte geben Sie die erforderlichen Felder ein
+Device record update failed	Aktualisierung des Gerätedatensatzes fehlgeschlagen
+Device record update successful	Aktualisierung des Gerätedatensatzes erfolgreich
+Verification email sent to specific email account.	Bestätigungs-E-Mail wurde an ein bestimmtes E-Mail-Konto gesendet.
+User details has been updated.	Benutzerdetails wurden aktualisiert.
+You have paired a support person with this machine	Sie haben eine Support-Person mit diesem Gerät gekoppelt
+You have created a support person	Sie haben eine Supportperson angelegt
+Your ticket has been updated.	Ihr Ticket wurde aktualisiert.
+Reason, Status and Notes fields are required	Die Felder Grund, Status und Notizen müssen ausgefüllt werden
+Too Many Requests	Zu viele Anfragen
+500 Internal Server Error	500 Internal Server Error
+Enter Facility ID	Geben Sie die Facility ID ein
+Enter Customer Account Number	Geben Sie die Kundenkontonummer ein
+Software Options	Software-Optionen
+Gateway	Tor
+Module Configuration	Modulkonfiguration
+Software Version	Softwareversion
+Hardware Version	Hardware Version
+User Interface Computer	Benutzeroberfläche Computer
+Remote Control Receiver	Fernbedienungsempfänger
+Multimedia Center	Multimedia Center
+FCIB	FCIB
+FCIB Bluetooth Module	FCIB Bluetooth-Modul
+Foot Control	Fußanlasser
+Foot Control Bluetooth Module	Fußschalter Bluetooth-Modul
+Foot Control Battery	Fußschalterbatterie
+Fluidics Module	Fluidics-Modul
+Ultrasound Module	Ultraschallmodul
+IV Pole Controller	IV Pole Controller
+Compressor Module	Kompressormodul
+Power Supply Module	Energieversorgungs Modul
+Posterior Module	Hinteres Modul
+Laser Module	Lasermodul
+Illumination Module	Beleuchtungsmodul
+Gateway Module	Gateway-Modul
+SIM 1 Module	SIM 1 Modul
+SIM 2 Module	SIM 2 Modul
+Case #	Fall #
+View Record	Datensatz anzeigen
+Total Aspiration 1 Activations	Total Aspiration 1 Aktivierungen
+Total Aspiration 2 Activations	Total Aspiration 2 Aktivierungen
+Total Main Aspiration Activation	Totale Aktivierung der Hauptaspiration
+Total Aspiration On Time	Totale Aspiration auf Zeit
+Total Cassette / Cartridge Captures	Gesamtzahl der Kassetten- / Kassettenaufnahmen
+Total Irrigation Activations	Total Irrigation Activations
+Total On Time of Module	Total On Time des Moduls
+Total Fluid Vent Activations	Total Fluid Vent Activations
+Total Vitrectomy Activations	Totale Vitrektomie-Aktivierungen
+Total Activations of Reflux Pinch	Total Activations of Reflux Pinch
+Accumulator Pump On/Off Cycles	Ein / Aus-Zyklen der Speicherpumpe
+Accumulator Pump Run Time	Laufzeit der Speicherpumpe
+Total Bottle Infusion Activations	Total Bottle Infusion Aktivierungen
+Rotary Vane Pump On/Off Cycles	Drehschieberpumpe Ein / Aus Zyklen
+Rotary Vane Pump Run Time	Laufzeit der Drehschieberpumpe
+Number of Activations of the AFX Selection Valve	Anzahl der Aktivierungen des AFX-Auswahlventils
+Total Bottle Infusion Compressor Cycles	Total Bottle Infusion Compressor Zyklen
+On Time of Bottle Infusion Compressor	Einschaltzeit des Flascheninfusionskompressors
+Number of Activations of Bottle Selection Valve	Anzahl der Aktivierungen des Flaschenauswahlventils
+Total Number of Venturi Regulator Valve Cycles	Gesamtzahl der Venturi-Regelventilzyklen
+Venturi Regulator On Time	Venturi Regulator On Time
+VFI Pump On/Off Cycles	VFI Pump On/Off Cycles
+VFI Pump Run Time	VFI Pump Run Time
+Total Number of VFI Valve Activations	Gesamtzahl der VFI-Ventilaktivierungen
+Total On/Off Cycles of the Vit Regulator	Gesamt-Ein / Aus-Zyklen des Vit-Reglers
+On Time of Vit Regulator	On Time of Vit Regulator
+Foot Control Battery Charge Count	Ladezählung der Batterie am Fußschalter
+Treatment Laser On Time	Behandlungslaser pünktlich
+Aiming Laser Pulse On Time	Laserpuls auf Zeit ausrichten
+Treatment Laser Pulse Count	Behandlung Laserpulszahl
+IV Pole Home Switch Activations	IV Pole-Home-Schalteraktivierungen
+IV Pole Total Travel	IV Pole Gesamtreise
+Light Source 1 Ballast Time	Vorschaltzeit für Lichtquelle 1
+Light Source 1 Failed Start Attempts	Startversuche für Lichtquelle 1 fehlgeschlagen
+Light Source 1 Total Filter System Movement	Lichtquelle 1 Gesamtbewegung des Filtersystems
+Light Source 1 Total On Commands	Lichtquelle 1 Gesamt Ein Befehle
+Lamp 1 Total Start Pulses	Lampe 1 Gesamtstartimpulse
+Light Source 2 Ballast Time	Vorschaltzeit für Lichtquelle 2
+Light Source 2 Failed Start Attempts	Lichtquelle 2 Startversuche fehlgeschlagen
+Light Source 2 Total Filter System Movement	Lichtquelle 2 Gesamtbewegung des Filtersystems
+Light Source 2 Total On Commands	Lichtquelle 2 Gesamt Ein Befehle
+Lamp 2 Total Start Pulses	Lampe 2 Gesamtstartimpulse
+Light Source 1 Bad Starts Count	Lichtquelle 1 Schlecht Startet die Zählung
+Light Source 1 End of Life	Lichtquelle 1 Lebensende
+Light Source 1 End of Life Time	Lichtquelle 1 Lebensdauerende
+Lamp 1 Not Good To Use	Lampe 1 nicht gut zu bedienen
+Lamp 1 Max Allowed Fail to Starts	Lampe 1 Max. Zulässige Fehler beim Starten
+Lamp 1 Number of Lamp Moves	Lampe 1 Anzahl der Lampenbewegungen
+Lamp 1 Near End of Life	Lampe 1 ist fast am Ende der Lebensdauer
+Lamp 1 On Time	Lampe 1 pünktlich
+Lamp 1 Max Safe Operating Voltage	Lampe 1 Max. Sichere Betriebsspannung
+Lamp 1 Current Selection Type	Lampen 1 Stromauswahltyp
+Lamp 1 Total Start Attempts	Lampe 1 Startversuche insgesamt
+Lamp 1 Total Strike Attempts	Lamp 1 Total Strike Attempts
+Lamp 1 Type Variant	Lampe 1 Typ Variante
+Light Source 2 Bad Starts Count	Lichtquelle 2 Schlechte Startanzahl
+Light Source 2 End of Life	Lichtquelle 2 Lebensende
+Light Source 2 End of Life Time	Lichtquelle 2 Lebensdauerende
+Lamp 2 Not Good To Use	Lampe 2 nicht gut zu bedienen
+Lamp 2 Max Allowed Fail to Starts	Lampe 2 Max. Zulässige Fehler beim Starten
+Lamp 2 Number of Lamp Moves	Lampe 2 Anzahl der Lampenbewegungen
+Lamp 2 Near End of Life	Lampe 2 kurz vor dem Lebensende
+Lamp 2 On Time	Lampe 2 pünktlich
+Lamp 2 Max Safe Operating Voltage	Maximale sichere Betriebsspannung für Lampe 2
+Lamp 2 Current Selection Type	Lampen 2 Stromauswahltyp
+Lamp 2 Total Start Attempts	Startversuche für Lampe 2 insgesamt
+Lamp 2 Total Strike Attempts	Lamp 2 Total Strike Attempts
+Lamp 2 Type Variant	Lampe 2 Typ Variante
+Enabled	aktiviert
+Disabled	Deaktiviert
+View More	Mehr sehen
+Unpair from	Entpaarung von
+Pair to	Pairing mit
+Re-Birth	Re-Birth
+Ticket Details	Ticket Details
+No Responders to display	Keine Antwortenden zum Anzeigen
+No Assigned Users to display	Keine zugewiesenen Benutzer zum Anzeigen
+Case Details	Falldetails
+Sales Area	Verkaufsfläche
+Sales Territory	Verkaufsgebiet
+Service Area	Service Bereich
+Service Region	Serviceregion
+Service Territory	Service-Gebiet
+No support users to display	Keine Support-Benutzer zum Anzeigen
+Continue	Fortsetzen
+Case	Fall
+Ensure VPN or direct network connection to Bausch.com domain before continuing.	Stellen Sie sicher, dass eine VPN- oder direkte Netzwerkverbindung zur Bausch.com-Domain besteht, bevor Sie fortfahren.
+Automated launching of the RealVNC application is not available in this version. Please ensure you are connected to the Bausch network, manually launch the RealVNC desktop application, and connect to 12345	Automated launching of the RealVNC application is not available in this version. Please ensure you are connected to the Bausch network, manually launch the RealVNC desktop application, and connect to 12345
+The device with id:SPC03276 already exists.	The device with id:SPC03276 already exists.
+Sim already activated.	Sim ist bereits aktiviert.
+File saved successfully and configuration file for SPC03276 has been emailed to test123@test.com	File saved successfully and configuration file for SPC03276 has been emailed to test123@test.com
+User with ID:1234566 and all its files have been deleted.	User with ID:1234566 and all its files have been deleted.
+The user with email: test123@test.com already exists.	The user with email: test123@test.com already exists.
+660 Max Vacuum	660 Max Vacuum
+2000 mW Max Laser	2000 mW Max Laser
+Posterior Adaptive Fluidics	Posterior adaptive Fluidik
+Internal	Intern
+Surgery Summary	Zusammenfassung der Operation
+Enter Facility Address	Adresse der Einrichtung eingeben
+Export	Export
+Sales Manager (Cat RBD)	Sales Manager (Cat RBD)
+Sales Manager (Ret RBD)	Sales Manager (Ret RBD)
+Sales Manager (Cat DIR)	Sales Manager (Cat DIR)
+Sales Manager (Ret DIR)	Sales Manager (Ret DIR)
+Field Sales (SES)	Field Sales (SES)
+Field Sales (STM)	Field Sales (STM)
+Field Sales (RTM)	Field Sales (RTM)
+Field Sales (RKAE)	Field Sales (RKAE)
+Done	Getan
+Middle name	Zweiter Vorname
+Display name	Anzeigename
+Enter Middle Name	Anzeigename
+Enter Display name	Anzeigenamen eingeben
+Unpair from support user	Entkoppeln vom Support-Benutzer
+Pair to support user	Koppeln, um Benutzer zu unterstützen
+Active since	Aktiv seit
+Debugger	Debugger

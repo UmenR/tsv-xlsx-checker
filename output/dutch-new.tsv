@@ -1,0 +1,393 @@
+LanguageId	LanguageValue
+Login	Inloggen
+Machines	Machines
+Birth	Installatie datum
+SKU #	SKU-nr.
+Serial #	Serienr.
+Device serial #	Serienummer machine
+Machine SKU #	SKU-nr. machine
+Machine serial #	Serienr. machine
+Facility name	Naam instelling
+Machine configuration	Machineconfiguratie
+Cases	Casus
+Help tickets	Help-tickets
+Doctors	Artsen
+Support team	Ondersteuningsteam
+No cases to display	Geen casus om weer te geven
+No tickets to display	Geen tickets om weer te geven
+VNC	VNC
+No doctors to display	Geen artsen om weer te geven
+No support team members to display	Geen leden ondersteuningsteam om weer te geven
+Pair doctor	Arts koppelen
+Pair support person	Ondersteuningsmedewerker koppelen
+Users	Gebruikers
+Support	Ondersteuning
+Surgeon	Chirurg
+Last name	Achternaam
+Service	Service
+Sales	Verkoop
+First name	Voornaam
+Information	Informatie
+Mobile phone	Telefoonnummer mobiel
+Email	E-mail
+Edit user	Gebruiker bewerken
+Pair machine	Machine koppelen
+Files	Bestanden
+No files to display	Geen bestanden om weer te geven
+Select one	Selecteer een
+Clear	Wissen
+Case stop time range	Bereik eindtijdstip casus
+Doctor name	Naam arts
+Select start date	Selecteer begindatum
+Select end date	Selecteer einddatum
+Apply	Toepassen
+Ticket start time range	Bereik begintijdstip ticket
+Assigned user	Toegewezen gebruiker
+Ticket status	Status ticket
+Ticket reason	Reden ticket
+View case	Casus weergeven
+View ticket	Ticket weergeven
+Unpair user	Koppeling met gebruiker verbreken
+Surgeon summary	samenvatting chirurg
+Case log details	Details casus
+Settings file	Instellingenbestand
+Technique	Techniek
+No change has been made	Er is niets gewijzigd
+Case time	Duur casus
+Total time	Totale tijd
+Fluid level	Vloeistofniveau
+phaco	phaco
+I/A	I/A
+Vit	Vit
+Frag	Frag.
+Extrude	Uitwerpen
+Vitesse	Vitesse
+Grade	Graad
+Infusion	Infusie
+Elevated infusion	Verhoogde infusie
+Vacuum	Vacuüm
+U/S Average	U/S gemiddeld
+U/S EPT	U/S EPT
+Coag	Coag
+Laser	Laser
+Laser shots	Lasershots
+Cancel	Annuleren
+No case log details to view	Geen details casuslog om weer te geven
+You do not have permission to view this	U heeft geen machtiging tot inzage
+You have incomplete birth process. Do you want to continue?	Uw installatie proces is onvolledig, Wilt u verder gaan
+Info	Info
+Yes	Ja
+No	Nee
+Register system	Systeem registreren
+Activate sim	Sim activeren
+System SKU	SKU systeem
+System serial	Serienummer systeem
+MQTT ID	MQTT-id
+MQTT Password	MQTT-wachtwoord
+Gateway part #	Onderdeelnr. gateway
+Gateway serial #	Serienr. gateway
+Gateway password	Wachtwoord gateway
+SIM part number	Onderdeelnummr SIM
+SIM ICCID	ICCID SIM
+Cell Carrier	Telefoonprovider
+SIM EAP code	EAP-code SIM
+Enter gateway password	Voer wachtwoord gateway in
+Enter gateway serial	Voer serienummer gateway in
+Enter gatway part #	Voer onderdeelnr. gateway in
+Enter SIM ICCID	Voer SIM ICCID in
+Select EAP code	Selecteer EAP-code
+Save file	Bestand opslaan
+Select SKU	Selecteer SKU
+EX:	bijv.
+Error	Fout
+Register machine	Machine registreren
+File status	Status bestand
+OK	OK
+Region	Regio
+Facility	Instelling
+SKU	SKU
+Get me help enabled	Help mij functie ingeschakeld
+Sales status	Verkoopstatus
+Sales status date range	Datumbereik verkoopstatus
+Birth date range	Leeftijd
+Enter facility name	Voer naam instelling in
+Enable	Inschakelen
+Disable	Uitschakelen
+None	Geen
+Not Placed	Niet geplaatst
+Not for sale	Niet te koop
+Demo	Demo
+Sold	Verkocht
+Lease	Lease
+Placement	Plaatsing
+Enter system serial number	Voer serienummer systeem in
+No machines to display	Geen machines om weer te geven
+Enter doctor last name	Voer achternaam arts in
+Unpair from this machine	Koppeling met deze machine verbreken
+Role	Functie
+Validate email	E-mail valideren
+Sub role(s)	Subrol(len)
+BART_SART	BART_SART
+Get change emails?	E-mails over verandering ontvangen?
+Remote connect allowed?	Externe aansluiting toegestaan?
+Enter first name	Voer voornaam in
+Enter last name	Voer achternaam in
+Enter user email	Voer e-mailadres gebruiker in
+Enter phone number	Voer telefoonnummer in
+Select role	Selecteer rol
+Select sub role	Selecteer subrol
+Select zone	Selecteer zone
+Save & pair with this machine	Opslaan en met deze machine koppelen
+Ticket #	Ticketnr.
+Start time	Begintijdstip
+Close time	Einde casus
+Status	Status
+Contact name	Naam contactpersoon
+Contact number	Nummer contactpersoon
+Surgeon settings name	instellingen chirurg
+Machine errors	Machinefouten
+Notes	Opmerkingen
+Responder list	Lijst met beantwoorders
+Assigned user list	Lijst van toegewezen gebruikers
+Add note	Notitie toevoegen
+Unpair machine	Koppeling met machine verbreken
+Password	Wachtwoord
+Confirm password	Bevestig wachtwoord
+Business Unit	Bedrijfsonderdeel
+Area	Gebied
+Territory	Rayon
+Created by	Gemaakt door
+Delete	Verwijderen
+Sales Admin	Verkoopadministratie
+Sales Manager	Verkoopmanager
+Field Sales	Verkoop buitendienst
+Lens Rep	Lens-vertegenwoordiger
+Applications	Toepassingen
+Data Analyst	Gegevensanalist
+Marketing	Marketing
+Admin	Admin
+Customer Service	Klantenservice
+Service Manager	Servicemanager
+Field Service	Technische Dienst
+Technical Support	Technische ondersteuning
+Manufacturing	Productie
+R&D Users	R&D-gebruikers
+New	Nieuw(e)
+In Process	In uitvoering
+Reassigned	Opnieuw toegewezen
+Closed and Resolved	Gesloten en opgelost
+Closed and Unresolved	Gesloten maar niet opgelost
+Expired	Verlopen
+Setup	Setup
+Order Packs	Packs bestellen
+Another Issue	Ander probleem
+RemConn	RemConn
+Current Machine Configuration	Huidige machineconfiguratie
+Past EDHR	Past EDHR
+Machine Life Data	Gegevens over de levensduur van de machine
+EDHR	EDHR
+Life Data	Levensgegevens
+Machine Status	Machinestatus
+Not Updated	Niet geüpdate
+Are you sure you want to change the mobile connection status?.	Weet u zeker dat u de status van de mobiele verbinding wilt wijzigen?
+days	dagen
+Facility Address	Faciliteit adres
+Facility ID	Faciliteit ID
+Customer Account #	Klantenrekening #
+Cases Associated with Machine	Gevallen geassocieerd met Machine
+Sales Region	Verkoopregio
+System Birth Date	Geboortedatum systeem
+Placed By	Geplaatst door
+Mobile Connection	Mobiele verbinding
+SIM Change	SIM wijzigen
+Change	Verandering
+SIM Plan	SIM-abonnement
+No Records To Display	Geen records om weer te geven
+Save	Opslaan
+Close	Dichtbij
+Create	creëren
+Edit	Bewerk
+Find Doctor	Zoek dokter
+Dr.	Dr.
+Pair to this machine	Koppelen aan deze machine
+Enter Email	Voer email in
+NPI	Confirmation
+Enter NPI	Voer NPI in
+EULA Created Date	EULA-aanmaakdatum
+EULA Accepted	EULA geaccepteerd
+EULA Accepted Date	EULA Geaccepteerde datum
+Find User	Gebruiker zoeken
+Create User	Gebruiker aanmaken
+Enter User Last Name	Voer de achternaam van de gebruiker in
+You are about to exit the App. Are you sure?	U staat op het punt de app te verlaten. Weet je zeker dat?
+This process requires physical access to the machine to complete. Are you sure you want to proceed?	Dit proces vereist fysieke toegang tot de machine om te voltooien. Weet je zeker dat je verder wilt gaan?
+Are you sure you want to delete this user?	Weet u zeker dat u deze gebruiker wilt verwijderen?
+Confirmation	Confirmation
+Please connect to a network and try again.	Maak verbinding met een netwerk en probeer het opnieuw.
+SSO is not enabled. Please contact your administrator.	SSO is niet ingeschakeld. Neem contact op met uw beheerder.
+Not a valid cloud user	Geen geldige cloudgebruiker
+Start date should be less than End date	Startdatum moet korter zijn dan Einddatum
+Unauthorized	onbevoegd
+Session Expired. Please Login.	Sessie verlopen. Log alsjeblieft in.
+Success	Succes
+Error Saving File	Fout bij opslaan van bestand
+SIM Status	SIM-status
+Current SIM Status	Huidige SIM-status
+Required Fields	Verplichte velden
+EAP Code	EAP Code
+Please Enter Required Fields	Voer de verplichte velden in
+Device record update failed	Update van apparaatrecord mislukt
+Device record update successful	Update van apparaatrecord succesvol
+Verification email sent to specific email account.	Verificatie-e-mail verzonden naar specifiek e-mailaccount.
+User details has been updated.	Gebruikersgegevens zijn bijgewerkt.
+You have paired a support person with this machine	U hebt een ondersteuningsmedewerker aan deze machine gekoppeld
+You have created a support person	U hebt een ondersteunend persoon gemaakt
+Your ticket has been updated.	Je ticket is bijgewerkt.
+Reason, Status and Notes fields are required	De velden Reden, Status en Opmerkingen zijn verplicht
+Too Many Requests	Te veel aanvragen
+500 Internal Server Error	500 Interne server fout
+Enter Facility ID	Voer faciliteit-ID in
+Enter Customer Account Number	Voer klantaccountnummer in
+Software Options	Software opties
+Gateway	poort
+Module Configuration	Module configuratie
+Software Version	Software versie
+Hardware Version	Hardware Version
+User Interface Computer	Computer gebruikersinterface
+Remote Control Receiver	Afstandsbediening ontvanger
+Multimedia Center	Multimedia centrum
+FCIB	FCIB
+FCIB Bluetooth Module	FCIB Bluetooth Module
+Foot Control	Voetpedaal
+Foot Control Bluetooth Module	Voetbediening Bluetooth module
+Foot Control Battery	Batterij voetpedaal
+Fluidics Module	Fluidics Module
+Ultrasound Module	Echografie module
+IV Pole Controller	IV-polige controller
+Compressor Module	Compressormodule
+Power Supply Module	Voeding Module
+Posterior Module	Achterste module
+Laser Module	Lasermodule
+Illumination Module	Illumination Module
+Gateway Module	Gateway Module
+SIM 1 Module	SIM 1-module
+SIM 2 Module	SIM 2-module
+Case #	Geval #
+View Record	Bekijk record
+Total Aspiration 1 Activations	Totale aspiratie 1 activeringen
+Total Aspiration 2 Activations	Totale aspiratie 2 activeringen
+Total Main Aspiration Activation	Totale hoofdzuigactivatie
+Total Aspiration On Time	Totale aspiratie op tijd
+Total Cassette / Cartridge Captures	Totaal aantal vastgelegde cassettes / cartridges
+Total Irrigation Activations	Totale activering van irrigatie
+Total On Time of Module	Totale tijd op module
+Total Fluid Vent Activations	Totale vloeistofventilatie-activeringen
+Total Vitrectomy Activations	Totale activering van vitrectomie
+Total Activations of Reflux Pinch	Totale activeringen van reflux knijpen
+Accumulator Pump On/Off Cycles	Accumulator pomp aan / uit cycli
+Accumulator Pump Run Time	Bedrijfstijd pomp
+Total Bottle Infusion Activations	Totale activering van infuusflessen
+Rotary Vane Pump On/Off Cycles	Roterende schoepenpomp aan / uit cycli
+Rotary Vane Pump Run Time	Looptijd roterende schoepenpomp
+Number of Activations of the AFX Selection Valve	Aantal activeringen van de AFX-selectieklep
+Total Bottle Infusion Compressor Cycles	Totale aantal infusiecompressoren in flessen
+On Time of Bottle Infusion Compressor	Op tijd van flesinfuuscompressor
+Number of Activations of Bottle Selection Valve	Aantal activeringen van de fleskeuzeklep
+Total Number of Venturi Regulator Valve Cycles	Aantal Venturi-regelklepcycli
+Venturi Regulator On Time	Venturi-regelaar op tijd
+VFI Pump On/Off Cycles	VFI-pomp aan / uit-cycli
+VFI Pump Run Time	Looptijd VFI-pomp
+Total Number of VFI Valve Activations	Totaal aantal VFI-klepactiveringen
+Total On/Off Cycles of the Vit Regulator	Totaal aantal aan / uit-cycli van de Vit-regelaar
+On Time of Vit Regulator	Op tijd van Vit-regelaar
+Foot Control Battery Charge Count	Voetbediening Aantal batterijen opladen
+Treatment Laser On Time	Behandeling Laser op tijd
+Aiming Laser Pulse On Time	Op tijd laserpuls richten
+Treatment Laser Pulse Count	Behandeling Laser Pulse Count
+IV Pole Home Switch Activations	IV Pole Home Switch-activeringen
+IV Pole Total Travel	IV pool totale reizen
+Light Source 1 Ballast Time	Lichtbron 1 Ballasttijd
+Light Source 1 Failed Start Attempts	Lichtbron 1 mislukt Startpogingen
+Light Source 1 Total Filter System Movement	Lichtbron 1 Totale filtersysteembeweging
+Light Source 1 Total On Commands	Lichtbron 1 Totaal op opdrachten
+Lamp 1 Total Start Pulses	Lamp 1 Totaal startpulsen
+Light Source 2 Ballast Time	Lichtbron 2 Ballasttijd
+Light Source 2 Failed Start Attempts	Lichtbron 2 mislukt Startpogingen
+Light Source 2 Total Filter System Movement	Lichtbron 2 Totale filtersysteembeweging
+Light Source 2 Total On Commands	Lichtbron 2 Totaal op opdrachten
+Lamp 2 Total Start Pulses	Lamp 2 Totaal startpulsen
+Light Source 1 Bad Starts Count	Lichtbron 1 Slecht begint met tellen
+Light Source 1 End of Life	Lichtbron 1 Einde levensduur
+Light Source 1 End of Life Time	Lichtbron 1 Einde levensduur
+Lamp 1 Not Good To Use	Lamp 1 Niet goed in gebruik
+Lamp 1 Max Allowed Fail to Starts	Lamp 1 Max toegestaan ​​Start niet
+Lamp 1 Number of Lamp Moves	Lamp 1 Aantal lampbewegingen
+Lamp 1 Near End of Life	Lamp 1 bijna aan het einde van de levensduur
+Lamp 1 On Time	Lamp 1 op tijd
+Lamp 1 Max Safe Operating Voltage	Lamp 1 Max. Veilige bedrijfsspanning
+Lamp 1 Current Selection Type	Lamp 1 Huidig ​​selectietype
+Lamp 1 Total Start Attempts	Lamp 1 Totaal aantal startpogingen
+Lamp 1 Total Strike Attempts	Lamp 1 Totaal aantal pogingen
+Lamp 1 Type Variant	Lamp 1 Type Variant
+Light Source 2 Bad Starts Count	Lichtbron 2 Slecht begint met tellen
+Light Source 2 End of Life	Lichtbron 2 Einde levensduur
+Light Source 2 End of Life Time	Lichtbron 2 Einde levensduur
+Lamp 2 Not Good To Use	Lamp 2 Niet goed in gebruik
+Lamp 2 Max Allowed Fail to Starts	Lamp 2 Max toegestaan ​​Start niet
+Lamp 2 Number of Lamp Moves	Lamp 2 Aantal lampbewegingen
+Lamp 2 Near End of Life	Lamp 2 bijna aan het einde van de levensduur
+Lamp 2 On Time	Lamp 2 op tijd
+Lamp 2 Max Safe Operating Voltage	Lamp 2 Max. Veilige bedrijfsspanning
+Lamp 2 Current Selection Type	Lamp 2 Huidig ​​selectietype
+Lamp 2 Total Start Attempts	Lamp 2 Totaal aantal startpogingen
+Lamp 2 Total Strike Attempts	Lamp 2 Totaal aantal pogingen
+Lamp 2 Type Variant	Lamp 2 Type Variant
+Enabled	Ingeschakeld
+Disabled	uitgeschakeld
+View More	Bekijk meer
+Unpair from	Ontkoppel van
+Pair to	Koppelen aan
+Re-Birth	herbeleving
+Ticket Details	Ticketgegevens
+No Responders to display	Geen responders om weer te geven
+No Assigned Users to display	Geen toegewezen gebruikers om weer te geven
+Case Details	Case Details
+Sales Area	Verkoopgebied
+Sales Territory	Verkoopgebied
+Service Area	Servicegebied
+Service Region	Serviceregio
+Service Territory	Servicegebied
+No support users to display	Geen ondersteuning voor gebruikers om weer te geven
+Continue	Doorgaan met
+Case	Geval
+Ensure VPN or direct network connection to Bausch.com domain before continuing.	Zorg voor VPN of directe netwerkverbinding met het Bausch.com-domein voordat u doorgaat.
+Automated launching of the RealVNC application is not available in this version. Please ensure you are connected to the Bausch network, manually launch the RealVNC desktop application, and connect to 12345	Automated launching of the RealVNC application is not available in this version. Please ensure you are connected to the Bausch network, manually launch the RealVNC desktop application, and connect to 12345
+The device with id:SPC03276 already exists.	The device with id:SPC03276 already exists.
+Sim already activated.	Sim al geactiveerd.
+File saved successfully and configuration file for SPC03276 has been emailed to test123@test.com	File saved successfully and configuration file for SPC03276 has been emailed to test123@test.com
+User with ID:1234566 and all its files have been deleted.	Gebruiker met ID: 1234566 en al zijn bestanden zijn verwijderd.
+The user with email: test123@test.com already exists.	The user with email: test123@test.com already exists.
+660 Max Vacuum	660 Max Vacuum
+2000 mW Max Laser	2000 mW Max Laser
+Posterior Adaptive Fluidics	Posterior Adaptive Fluidics
+Internal	Intern
+Surgery Summary	Samenvatting van de operatie
+Enter Facility Address	Voer faciliteitsadres in
+Export	Exporteren
+Sales Manager (Cat RBD)	Sales Manager (Cat RBD)
+Sales Manager (Ret RBD)	Sales Manager (Ret RBD)
+Sales Manager (Cat DIR)	Sales Manager (Cat DIR)
+Sales Manager (Ret DIR)	Sales Manager (Ret DIR)
+Field Sales (SES)	Field Sales (SES)
+Field Sales (STM)	Field Sales (STM)
+Field Sales (RTM)	Field Sales (RTM)
+Field Sales (RKAE)	Field Sales (RKAE)
+Done	Gedaan
+Middle name	Midden-naam
+Display name	Weergavenaam
+Enter Middle Name	Voer middelste naam in
+Enter Display name	Voer weergavenaam in
+Unpair from support user	Ontkoppelen van ondersteuningsgebruiker
+Pair to support user	Koppelen om gebruiker te ondersteunen
+Active since	Actief sinds
+Debugger	Debugger

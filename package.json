@@ -1,0 +1,17 @@
+{
+  "name": "stellaris-localization-tool",
+  "version": "1.0.0",
+  "description": "This tool is used to read localization strings from an excel sheet and update the .tsv files used for localization in the app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umendra Rajapakshe",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^5.5.3",
+    "csvtojson": "^2.0.10",
+    "tsv": "^0.2.0",
+    "xlsx": "^0.17.1"
+  }
+}

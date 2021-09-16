@@ -1,0 +1,393 @@
+LanguageId	LanguageValue
+Login	Connexion
+Machines	Equipements
+Birth	Création
+SKU #	SKU
+Serial #	S/N
+Device serial #	S/N Dispositif
+Machine SKU #	SKU Equipement
+Machine serial #	S/N Equipement
+Facility name	Nom de l’établissement
+Machine configuration	Configuration
+Cases	Cas
+Help tickets	Tickets d’aide
+Doctors	Médecins
+Support team	Équipe de service technique
+No cases to display	Aucun cas à afficher
+No tickets to display	Aucun ticket à afficher
+VNC	VNC
+No doctors to display	Aucun médecin à afficher
+No support team members to display	Aucun membre du service technique à afficher
+Pair doctor	Associer un médecin
+Pair support person	Associer Ingénieur SAV
+Users	Utilisateurs
+Support	SAV
+Surgeon	Chir.
+Last name	Nom
+Service	Service
+Sales	Ventes
+First name	Prénom
+Information	Information
+Mobile phone	Tél. Mobile
+Email	E-Mail
+Edit user	Modifier l’utilisateur
+Pair machine	Associer Equipement
+Files	Fichiers
+No files to display	Aucun fichier à afficher
+Select one	Sélectionner un
+Clear	Effacer
+Case stop time range	Période de fin du cas
+Doctor name	Nom du médecin
+Select start date	Sélectionner la date de début
+Select end date	Sélectionner la date de fin
+Apply	Appliquer
+Ticket start time range	Période de début du ticket
+Assigned user	Utilisateur affecté
+Ticket status	État du ticket
+Ticket reason	Raison du ticket
+View case	Afficher le cas
+View ticket	Afficher le ticket
+Unpair user	Dissocier l’utilisateur
+Surgeon summary	Récapitulatif du chirurgien
+Case log details	Détails du journal de cas
+Settings file	Fichier de paramètres
+Technique	Technique
+No change has been made	Aucun changement n’a été fait
+Case time	Durée du cas
+Total time	Durée totale
+Fluid level	Niveau de liquide
+phaco	Phaco
+I/A	I/A
+Vit	Vit
+Frag	Frag
+Extrude	Extrusion
+Vitesse	Vitesse
+Grade	Degré
+Infusion	Perfusion
+Elevated infusion	Perfusion augmentée
+Vacuum	Vide
+U/S Average	Moyenne U/S
+U/S EPT	U/S EPT
+Coag	Coag
+Laser	Laser
+Laser shots	Tir laser
+Cancel	Annuler
+No case log details to view	Aucun détail du journal de cas à afficher
+You do not have permission to view this	Vous n’avez pas la permission d’afficher ceci
+You have incomplete birth process. Do you want to continue?	Vous avez un processus de création incomplet. Voulez-vous continuer ?
+Info	Infos
+Yes	Oui
+No	Non
+Register system	Enregistrer Système
+Activate sim	Activer sim
+System SKU	SKU du système
+System serial	Série du système
+MQTT ID	ID MQTT
+MQTT Password	Mot de passe MQTT
+Gateway part #	No. de pièce de la passerelle
+Gateway serial #	No. de série de la passerelle
+Gateway password	Mot de passe de la passerelle
+SIM part number	Numéro de pièce de SIM
+SIM ICCID	ICCID de SIM
+Cell Carrier	Support cellulaire
+SIM EAP code	Code EAP de SIM
+Enter gateway password	Saisir le mot de passe de la passerelle
+Enter gateway serial	Saisir le numéro de série de la passerelle
+Enter gatway part #	Saisir le numéro de pièce de la passerelle
+Enter SIM ICCID	Saisir l’ICCID du SIM
+Select EAP code	Sélectionner le code EAP
+Save file	Enregistrer le fichier
+Select SKU	Sélectionner le SKU
+EX:	EX :
+Error	Erreur
+Register machine	Enregistrer Equipement
+File status	État du fichier
+OK	OK
+Region	Zone
+Facility	Établissement
+SKU	SKU
+Get me help enabled	Obtenir de l’aide activé
+Sales status	État des ventes
+Sales status date range	Période d’état des ventes
+Birth date range	Plage des dates de création
+Enter facility name	Saisir le nom de l’établissement
+Enable	Activé
+Disable	Désactivé
+None	Aucune
+Not Placed	Non placé
+Not for sale	Pas à vendre
+Demo	Démo
+Sold	Vendu
+Lease	Location
+Placement	Placement
+Enter system serial number	Saisir le numéro de série du système
+No machines to display	Aucun Equipement à afficher
+Enter doctor last name	Saisir le nom de famille du médecin
+Unpair from this machine	Dissocier Equipement
+Role	Rôle
+Validate email	Valider l’Email
+Sub role(s)	Sous-rôle(s)
+BART_SART	BART_SART
+Get change emails?	Recevoir des emails en cas de changement ?
+Remote connect allowed?	Connexion à distance autorisée ?
+Enter first name	Saisir le prénom
+Enter last name	Saisir le nom de famille
+Enter user email	Saisir l’email de l’utilisateur
+Enter phone number	Saisir le numéro de téléphone
+Select role	Sélectionner le rôle
+Select sub role	Sélectionner un sous-rôle
+Select zone	Sélectionner une zone
+Save & pair with this machine	Enregistrer et associer à cette machine
+Ticket #	Ticket #
+Start time	Heure de début
+Close time	Heure de fermeture
+Status	État
+Contact name	Nom du contact
+Contact number	Numéro du contact
+Surgeon settings name	Nom des paramètres du chirurgien
+Machine errors	Erreurs de machine
+Notes	Remarques :
+Responder list	Liste des répondants
+Assigned user list	Liste des utilisateurs affectés
+Add note	Ajouter une note
+Unpair machine	Dissocier la machine
+Password	Mot de passe
+Confirm password	Confirmer le mot de passe
+Business Unit	Unité commerciale
+Area	Zone
+Territory	Territoire
+Created by	Créé par
+Delete	Supprimer
+Sales Admin	Administration des ventes
+Sales Manager	Responsable des ventes
+Field Sales	Ventes sur le terrain
+Lens Rep	Représentant de la lentille
+Applications	Applications
+Data Analyst	Analyste de données
+Marketing	Marketing
+Admin	Administrateur
+Customer Service	Service-Clients
+Service Manager	Responsable de service
+Field Service	Service sur le terrain
+Technical Support	Service technique
+Manufacturing	Fabricant
+R&D Users	Utilisateurs de R & D
+New	Nouveau
+In Process	En cours
+Reassigned	Réaffecté
+Closed and Resolved	Fermé et résolu
+Closed and Unresolved	Fermé et non résolu
+Expired	Expiré
+Setup	Configuration
+Order Packs	Commander des packs
+Another Issue	Un autre problème
+RemConn	Connexion à distance
+Current Machine Configuration	Configuration actuelle de la machine
+Past EDHR	Historique eDHR (Electronic Device History Records)
+Machine Life Data	Données en lien avec la machine
+EDHR	Configuration actuelle eDHR (electronic Device History Records)
+Life Data	Données de vie
+Machine Status	Etat de la machine
+Not Updated	Pas mis à jour
+Are you sure you want to change the mobile connection status?.	Êtes-vous sûr de vouloir changer l'état de la connexion mobile?
+days	Jours
+Facility Address	Adresse de l'établissement
+Facility ID	Identifiant de l'établissement
+Customer Account #	Compte client #
+Cases Associated with Machine	Cas associés à la machine
+Sales Region	Région vente
+System Birth Date	Date de fabrication du système
+Placed By	Installation par
+Mobile Connection	Connexion mobile
+SIM Change	Changement de carte SIM
+Change	Changement
+SIM Plan	Plan SIM
+No Records To Display	Aucun enregistrement à afficher
+Save	Sauvegarder
+Close	Fermer
+Create	Créer
+Edit	Modifier
+Find Doctor	Trouver un docteur
+Dr.	Dr.
+Pair to this machine	Associer à cette machine
+Enter Email	Entrer Email
+NPI	Identifiant chirurgien
+Enter NPI	Entrer l'identifiant chirurgien
+EULA Created Date	Date de création des CGU (condition générales d'utilisation)
+EULA Accepted	CGU acceptées
+EULA Accepted Date	Date d'acception des CGU
+Find User	Trouver un utilisateur
+Create User	Créer un utilisateur
+Enter User Last Name	Entrez le nom d'utilisateur
+You are about to exit the App. Are you sure?	Vous êtes sur le point de quitter l'application. Êtes-vous sûr?
+This process requires physical access to the machine to complete. Are you sure you want to proceed?	Ce processus nécessite une intervention matérielle sur la machine. Êtes-vous sûr de vouloir continuer?
+Are you sure you want to delete this user?	Êtes-vous sûr de vouloir supprimer cet utilisateur?
+Confirmation	Confirmation
+Please connect to a network and try again.	Veuillez vous connecter à un réseau et réessayer.
+SSO is not enabled. Please contact your administrator.	SSO (authentification unique) n'est pas activé. Veuillez contacter votre administrateur.
+Not a valid cloud user	Utilisateur de cloud non valide
+Start date should be less than End date	La date de début doit être antérieure à la date de fin
+Unauthorized	Non autorisé
+Session Expired. Please Login.	La session a expiré. Veuillez vous connecter.
+Success	Succès
+Error Saving File	Erreur d'enregistrement du fichier
+SIM Status	État de la carte SIM
+Current SIM Status	État actuel de la carte SIM
+Required Fields	Champs obligatoires
+EAP Code	Code EAP
+Please Enter Required Fields	Veuillez entrer les champs obligatoires
+Device record update failed	Mise à jour de l'enregistrement du périphérique a échoué
+Device record update successful	Mise à jour de l'enregistrement de périphérique réussie
+Verification email sent to specific email account.	Un mail de vérification a été envoyé sur la boite mail concernée.
+User details has been updated.	Les détails de l'utilisateur ont été mis à jour.
+You have paired a support person with this machine	Vous avez associé une personne référente (support) à cette machine
+You have created a support person	Vous avez créé une personne référente (support)
+Your ticket has been updated.	Votre dossier a été mis à jour.
+Reason, Status and Notes fields are required	Les champs Motif, Statut et Notes sont obligatoires
+Too Many Requests	Trop de demandes
+500 Internal Server Error	500 - Erreur serveur interne
+Enter Facility ID	Entrer l'identifiant de l'établissement
+Enter Customer Account Number	Entrez le numéro de compte client
+Software Options	Options logicielles
+Gateway	Passerelle
+Module Configuration	Configuration du module
+Software Version	Version logiciel
+Hardware Version	Version matériel
+User Interface Computer	Interface utilisateur
+Remote Control Receiver	Récepteur de télécommande
+Multimedia Center	Centre Multimedia
+FCIB	Récepteur de la pédale de contrôle
+FCIB Bluetooth Module	Module Bluetooth du récepteur de la pédale de contrôle
+Foot Control	Pédale de contrôle
+Foot Control Bluetooth Module	Module Bluetooth de la pédale de contrôle
+Foot Control Battery	Batterie de la pédale
+Fluidics Module	Module Fluidique
+Ultrasound Module	Module à ultrasons
+IV Pole Controller	Contrôle de la potence
+Compressor Module	Module compresseur
+Power Supply Module	Module d'alimentation
+Posterior Module	Module postérieur
+Laser Module	Module laser
+Illumination Module	Module d'éclairage
+Gateway Module	Module de passerelle
+SIM 1 Module	SIM 1
+SIM 2 Module	SIM 2
+Case #	Cas #
+View Record	Voir l'enregistrement des données de la chirurgie
+Total Aspiration 1 Activations	Nombre total de déclenchement de l'aspiration 1
+Total Aspiration 2 Activations	Nombre total de déclenchement de l'aspiration 2
+Total Main Aspiration Activation	Nombre total de déclenchement de l'aspiration principale
+Total Aspiration On Time	Durée totale d'activation de l'aspiration
+Total Cassette / Cartridge Captures	Nombre total d'insertion de la cassette pendant le cas
+Total Irrigation Activations	Nombre total de déclenchement de l'irrigation
+Total On Time of Module	Durée totale d'activation du module
+Total Fluid Vent Activations	Nombre total de déclenchement de l'évent
+Total Vitrectomy Activations	Nombre total de déclenchement de la vitrectomie
+Total Activations of Reflux Pinch	Nombre total de déclenchement du piston de reflux
+Accumulator Pump On/Off Cycles	Cycles marche / arrêt de la pompe
+Accumulator Pump Run Time	Durée de fonctionnement de la pompe
+Total Bottle Infusion Activations	Nombre total de déclenchement de l'infusion
+Rotary Vane Pump On/Off Cycles	Cycles marche / arrêt de la pompe péristaltique
+Rotary Vane Pump Run Time	Durée de fonctionnement de la pompe péristaltique
+Number of Activations of the AFX Selection Valve	Nombre total de déclenchement de la vanne de sélection AFX
+Total Bottle Infusion Compressor Cycles	Nombre total de cycles de compresseur d'infusion de la bouteille
+On Time of Bottle Infusion Compressor	Durée d'utilisation de l'infusion préssurisée
+Number of Activations of Bottle Selection Valve	Nombre d'activations de la valve d'infusion
+Total Number of Venturi Regulator Valve Cycles	Nombre total de cycles d'ouverture de la valve venturi
+Venturi Regulator On Time	Durée totale d'activation du système Venturi
+VFI Pump On/Off Cycles	Cycles d'activation / désactivation de pompe VFI
+VFI Pump Run Time	Durée d'utilisation de la pompe VFI
+Total Number of VFI Valve Activations	Nombre total d'activations de vanne VFI
+Total On/Off Cycles of the Vit Regulator	Total des cycles marche / arrêt du régulateur Vit
+On Time of Vit Regulator	Durée d'utilisation du régulateur Vit
+Foot Control Battery Charge Count	Nombre de charge de la batterie
+Treatment Laser On Time	Nombre total des tirs laser
+Aiming Laser Pulse On Time	Nombre d'impulsions du laser de visée
+Treatment Laser Pulse Count	Nombre d'impulsions laser
+IV Pole Home Switch Activations	Nombre d'activation de la potence
+IV Pole Total Travel	Nombre total de mouvements de potence
+Light Source 1 Ballast Time	Ampoule 1 - Temps d'utilisation du Ballast
+Light Source 1 Failed Start Attempts	Ampoule 1 - Nombre de tentative échouée d'allumage
+Light Source 1 Total Filter System Movement	Ampoule 1 - Nombte total de mouvements de l'atténuateur
+Light Source 1 Total On Commands	Ampoule 1 - Durée d'utilisation
+Lamp 1 Total Start Pulses	Ampoule 1 - Nombre total d'impulsions avant allumage
+Light Source 2 Ballast Time	Ampoule 2 - Temps d'utilisation du Ballast
+Light Source 2 Failed Start Attempts	Ampoule 2 - Nombre d'échec d'allumage
+Light Source 2 Total Filter System Movement	Ampoule 2 - Nombte total de mouvements de l'atténuateur
+Light Source 2 Total On Commands	Ampoule 2 - Durée d'utilisation
+Lamp 2 Total Start Pulses	Ampoule 2 - Nombre total d'impulsions avant allumage
+Light Source 1 Bad Starts Count	Ampoule 1 - Nombre total d'échec d'allumage
+Light Source 1 End of Life	Ampoule 1 en fin de vie
+Light Source 1 End of Life Time	Ampoule 1 - Durée d'utilisation maximum autorisée (min)
+Lamp 1 Not Good To Use	Ampoule 1 - à ne pas utiliser
+Lamp 1 Max Allowed Fail to Starts	Ampoule 1 - Nombre d'échec de démarrage autorisé
+Lamp 1 Number of Lamp Moves	Ampoule 1 - Nombre de déplacement d'un système à un autre
+Lamp 1 Near End of Life	Ampoule 1 - Durée d'utilisation maximum avant alerte proche fin de vie
+Lamp 1 On Time	Ampoule 1 - Durée d'utilisation
+Lamp 1 Max Safe Operating Voltage	Ampoule 1 - Tension maximale pour une utilisation sécurisée
+Lamp 1 Current Selection Type	Ampoule 1 - Sélection du type de tension
+Lamp 1 Total Start Attempts	Ampoule 1 - Nombre total de tentative d'allumage
+Lamp 1 Total Strike Attempts	Ampoule 1 - Nombre d'impulsions maximum pour une tentative d'allumage
+Lamp 1 Type Variant	Ampoule 1 - Type d'ampoule
+Light Source 2 Bad Starts Count	Ampoule 2 - Nombre total d'échec d'allumage
+Light Source 2 End of Life	Ampoule 2 en fin de vie
+Light Source 2 End of Life Time	Ampoule 2 - Durée d'utilisation maximum autorisée (min)
+Lamp 2 Not Good To Use	Ampoule 1 - à ne pas utiliser
+Lamp 2 Max Allowed Fail to Starts	Ampoule 2 - Nombre d'échec de démarrage autorisé
+Lamp 2 Number of Lamp Moves	Ampoule 2 - Nombre de déplacement d'un système à un autre
+Lamp 2 Near End of Life	Ampoule 2 - Durée d'utilisation maximum avant alerte proche fin de vie
+Lamp 2 On Time	Ampoule 2 - Durée d'utilisation
+Lamp 2 Max Safe Operating Voltage	Ampoule 2 - Tension maximale pour une utilisation sécurisée
+Lamp 2 Current Selection Type	Ampoule 2 - Sélection du type de tension
+Lamp 2 Total Start Attempts	Ampoule 2 - Nombre total de tentative d'allumage
+Lamp 2 Total Strike Attempts	Ampoule 2 - Nombre d'impulsions maximum pour une tentative d'allumage
+Lamp 2 Type Variant	Ampoule 2 - Type d'ampoule
+Enabled	activé
+Disabled	Désactivé
+View More	Voir plus
+Unpair from	Dissocier de
+Pair to	Associer à
+Re-Birth	Réactiver
+Ticket Details	Détails du dossier
+No Responders to display	Aucun intervenant disponible
+No Assigned Users to display	Aucun chirurgien programmé sur la machine
+Case Details	Détails du cas
+Sales Area	Zone vente
+Sales Territory	Secteur vente
+Service Area	Zone SAV
+Service Region	Région SAV
+Service Territory	Secteur SAV
+No support users to display	Aucun référent B+L assigné
+Continue	Continuez
+Case	Cas
+Ensure VPN or direct network connection to Bausch.com domain before continuing.	Assurez-vous que vous avec une connection réseau ou VPN au domaine Bausch.com avant de continuer.
+Automated launching of the RealVNC application is not available in this version. Please ensure you are connected to the Bausch network, manually launch the RealVNC desktop application, and connect to 12345	Le lancement automatique de l'application Real/VNC n'est pas disponible dans cette version. Veuillez vous assurer d'être connecté au réseau Bausch pour lancer manuellement l'application Real/vnc et connectez-vous au 12345
+The device with id:SPC03276 already exists.	Le machine SPC03276 existe déjà.
+Sim already activated.	Sim déjà activée.
+File saved successfully and configuration file for SPC03276 has been emailed to test123@test.com	Les fichiers ont été sauvegardés avec succès et la configuration du SPC03276 a été envoyé par email à l'adresse test123@test.com
+User with ID:1234566 and all its files have been deleted.	L'utilisateur avec l'identifiant 1234566 et tous ses fichiers ont été supprimés.
+The user with email: test123@test.com already exists.	L'utilisateur avec l'email : test123@test.com existe déjà.
+660 Max Vacuum	660 Max Vacuum
+2000 mW Max Laser	2000 mW Max Laser
+Posterior Adaptive Fluidics	Fluidique adaptative postérieure
+Internal	Interne
+Surgery Summary	Résumé de la chirurgie
+Enter Facility Address	Entrez l'adresse de l'établissement
+Export	Exportation
+Sales Manager (Cat RBD)	Sales Manager (Cat RBD)
+Sales Manager (Ret RBD)	Sales Manager (Ret RBD)
+Sales Manager (Cat DIR)	Sales Manager (Cat DIR)
+Sales Manager (Ret DIR)	Sales Manager (Ret DIR)
+Field Sales (SES)	Field Sales (SES)
+Field Sales (STM)	Field Sales (STM)
+Field Sales (RTM)	Field Sales (RTM)
+Field Sales (RKAE)	Field Sales (RKAE)
+Done	Fait
+Middle name	Deuxième nom
+Display name	Nom d'affichage et nom
+Enter Middle Name	Entrez le deuxième prénom
+Enter Display name	Entrez le nom d'affichage
+Unpair from support user	Dissocier de l'utilisateur d'assistance
+Pair to support user	Associer pour prendre en charge l'utilisateur
+Active since	Actif depuis
+Debugger	Debugger
