@@ -1,0 +1,64 @@
+{
+    "languages": [
+        {
+            "language": "french",
+            "excel-file-name": "french.xlsx",
+            "tsv-file-name": "french.tsv",
+            "output-file-name": "french-new.tsv",
+            "lang-code": "fr",
+            "priorityRow" : "B+L France alternative proposal",
+            "translationRow" : "French Translation"
+        },
+        {
+            "language": "italian",
+            "excel-file-name": "italian.xlsx",
+            "tsv-file-name": "italian.tsv",
+            "output-file-name": "italian-new.tsv",
+            "lang-code": "it",
+            "priorityRow" : "B+L Italy alternative proposal",
+            "translationRow" : "Italian Translation"
+        },
+        {
+            "language": "german",
+            "excel-file-name": "german.xlsx",
+            "tsv-file-name": "german.tsv",
+            "output-file-name": "german-new.tsv",
+            "lang-code": "de",
+            "priorityRow" : "B+L Germany alternative proposal",
+            "translationRow" : "German Translation"
+        },
+        {
+            "language": "dutch",
+            "excel-file-name": "dutch.xlsx",
+            "tsv-file-name": "dutch.tsv",
+            "output-file-name": "dutch-new.tsv",
+            "lang-code": "nl",
+            "priorityRow" : "B+L Dutch alternative proposal (OK)",
+            "translationRow" : "Dutch Translation"
+        },
+        {
+            "language": "portuguese",
+            "excel-file-name": "portugese.xlsx",
+            "tsv-file-name": "portugese.tsv",
+            "output-file-name": "portugese-new.tsv",
+            "lang-code": "pt-br",
+            "priorityRow" : "",
+            "translationRow" : ""
+        },
+        {
+            "language": "spanish",
+            "excel-file-name": "spanish.xlsx",
+            "tsv-file-name": "spanish.tsv",
+            "output-file-name": "spanish-new.tsv",
+            "lang-code": "es",
+            "priorityRow" : "",
+            "translationRow" : ""
+        }
+    ],
+    "output-dir" : "output",
+    "input-xlsx-dir" : "input-xlsx",
+    "input-tsv-dir" : "input-tsv",
+    "log-dir" : "logs",
+    "logs-enabled" : "true",
+    "keyRow" : "English Original Text (US)" 
+}
